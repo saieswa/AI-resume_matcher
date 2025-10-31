@@ -1,0 +1,8 @@
+# required packages
+flask
+sentence-transformers
+scikit-learn
+numpy
+PyPDF2
+docx2txt
+Werkzeuggit --version

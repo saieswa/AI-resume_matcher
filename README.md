@@ -19,6 +19,33 @@ The system:
 - Displays results through a Flask-based web interface
 
 ---
+## 🚀 Project Screenshots
+
+### 📄 Resume Upload & Analysis
+
+<p align="center">
+  <img src="image/img1.jpeg" width="900"/>
+</p>
+
+---
+
+### 📊 Resume Match Score & Insights
+
+<p align="center">
+  <img src="image/imag2.jpeg" width="900"/>
+</p>
+
+---
+
+### 🏗️ Project Architecture Diagram
+
+<p align="center">
+  <img src="image/chart.jpeg" width="900"/>
+</p>
+
+---
+
+
 
 # 🚀 Features
 

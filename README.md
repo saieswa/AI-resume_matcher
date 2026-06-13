@@ -310,10 +310,8 @@ The system also highlights the most relevant sentence snippets from each resume.
 # 👨‍💻 Authors
 
 - **P Sai Eswari**
-- **Tejash Kumar G S**
 
-Course: SWE1017 – Natural Language Processing  
-Faculty: Dr. B. Saleena
+
 
 ---
 
